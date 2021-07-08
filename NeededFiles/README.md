@@ -12,5 +12,7 @@ The manual way is to get the files, and place them in the wanted directory, and 
 Alternatively: 
 1. Get the files shared in your drive by clicking the following link:
 * https://drive.google.com/drive/folders/1GGFXU_5p8P9LmCE-lA7CCTELIUvJgO_N?usp=sharing
-2. Right-click the folder, and select **> Add shortcut to Drive**
-3. All needed files are imported, and the code is ready to be used
+2. Find the folder, and select **> Add shortcut to Drive**
+* Example:
+![example](./example.png)
+* All needed files are imported, and the code is ready to be used
