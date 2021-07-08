@@ -7,7 +7,7 @@ The complete implementation for the paper:
 ## Usage
 1. The main file is CRISPR-VAE.ipynb, and can be operated on Google Colab.  
 
-3. Get all files in NeededFiles, and the sub-directory Datasets,
+3. Get all files in NeededFiles, and the sub-directory /Datasets,
 
 5. the implementation assumes they are placed in your Google Drive at /Content/drive/My Drive/Colab/CRISPR-VAE.
 
