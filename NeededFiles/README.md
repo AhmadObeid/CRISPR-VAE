@@ -6,3 +6,11 @@
 4. The synthetic dataset
 5. A, C, G, T .png files for visualization
 
+## Usage:
+The manual way is to get the files, and place them in the wanted directory, and make sure all loading instances in the main code are consistent.
+
+Alternatively: 
+1. Get the files shared in your drive by clicking the following link:
+* https://drive.google.com/drive/folders/1GGFXU_5p8P9LmCE-lA7CCTELIUvJgO_N?usp=sharing
+2. Right-click the folder, and select **> Add shortcut to Drive**
+3. All needed files are imported, and the code is ready to be used
