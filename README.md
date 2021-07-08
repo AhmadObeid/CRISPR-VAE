@@ -5,7 +5,7 @@ The complete implementation for the paper:
 * CRISPR-VAE: A Method for Explaining CRISPR/Cas12a Predictions, and an Efficiency-aware gRNA Sequence Generator
 
 ## Usage
-1. The main file is CRISPR-VAE, and can be operated on Google Colab.  
+1. The main file is CRISPR-VAE.ipynb, and can be operated on Google Colab.  
 
 3. Get all files in NeededFiles, and the sub-directory Datasets,
 
