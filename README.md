@@ -13,6 +13,6 @@ The complete implementation for the paper:
 
 4. For any change for the above directory or to operate the file locally, change all instances from the code
  
-* Recommended: get all needed files autoamtically. Check /NeededFiles for more detail.
+* **Recommended: get all needed files autoamtically. Check /NeededFiles for more detail.**
 
 
