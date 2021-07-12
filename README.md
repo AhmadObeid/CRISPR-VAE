@@ -50,7 +50,7 @@ python crispr_vae.py --CAM '0'
 ```
 This will run the code according to the defualt options, but will exclude generating the CAMs.
 
-## Output file
+## Output directory
 All available outputs are located in /Files/outputs
 
 ## Citation
