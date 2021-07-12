@@ -188,9 +188,9 @@ if __name__ == "__main__":
           decoded_seq = np.reshape(tmp,(n,34,4))
           Rates_synth = seqDeepCpf.predict(decoded_seq)
           
-          sio.savemat('./Files/synthetic_'+str(cls)+'_efficiency.mat',{'decoded_seq':decoded_seq}) #one-hot encoded
-          sio.savemat('./Files/synthetic_'+str(cls)+'_efficiency_txt.mat',{'txt_array':txt_array}) #strings
-          sio.savemat('./Files/synthetic_'+str(cls)+'_efficiency_labels.mat',{'Rates_synth':Rates_synth}) #Labels
+          sio.savemat('./Files/synthetic_'+str(cls)+'_.mat',{'decoded_seq':decoded_seq}) #one-hot encoded
+          sio.savemat('./Files/synthetic_'+str(cls)+'_txt.mat',{'txt_array':txt_array}) #strings
+          sio.savemat('./Files/synthetic_'+str(cls)+'_pred.mat',{'Rates_synth':Rates_synth}) #Labels
           print("New synthetic data generated.\n\n")
     else: print("Using existing synthetic data.\n\n")
       
