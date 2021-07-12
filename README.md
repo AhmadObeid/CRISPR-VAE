@@ -67,7 +67,7 @@ If you find this repo useful, please include the following citation in your work
 	journal = {bioRxiv}
 }
 
-The current version of the paper can be found in Biorxiv.
+The current version of the paper can be found in bioRxiv.
 
 
 
