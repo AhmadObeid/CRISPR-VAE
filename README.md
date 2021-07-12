@@ -1,4 +1,7 @@
-![Logo](Logo.png)
+<p align="center">
+  <img width="487.5" height="227.5" src="Logo.png">
+</p>
+
 # CRISPR-VAE
 
 [CRISPR-VAE](https://www.biorxiv.org/content/early/2021/07/06/2021.07.05.451176) is a framework used for interpreting the explanation of gRNAs efficiency predictors, using an efficiency-aware sequence generator that allows low-level editing control.
