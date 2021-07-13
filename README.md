@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="487.5" height="227.5" src="logo.png">
+  <img width="375" height="175" src="logo.png">
 </p>
 
 # CRISPR-VAE
