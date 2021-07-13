@@ -1,7 +1,7 @@
 """
 Created by Ahmad Obeid and Hasan AlMarzouqi 
 for the implementation of paper:
-    A Method for Explaining CRISPR/Cas12a Predictions, 
+    CRISPR-VAE: A Method for Explaining CRISPR/Cas12a Predictions, 
     and an Efficiency-aware gRNA Sequence Generator
     
 """
