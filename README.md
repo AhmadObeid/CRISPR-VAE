@@ -4,7 +4,7 @@
 
 # CRISPR-VAE
 
-[CRISPR-VAE](https://www.biorxiv.org/content/early/2021/07/06/2021.07.05.451176) is a framework used for interpreting the explanation of gRNAs efficiency predictors, using an efficiency-aware sequence generator that allows low-level editing control.
+[CRISPR-VAE](https://www.biorxiv.org/content/early/2021/07/06/2021.07.05.451176) is a framework used for interpreting the decision of gRNA efficiency predictors, using an efficiency-aware sequence generator that allows low-level editing control.
 This repo contains the codes that are used to implement, train, and use CRISPR-VAE in Keras, including the synthetic data used in the paper.
 
 The codes can be easily operated with one-line command as shown below.
