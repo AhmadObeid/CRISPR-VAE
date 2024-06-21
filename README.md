@@ -10,19 +10,8 @@ This repo contains the codes that are used to implement, train, and use CRISPR-V
 The codes can be easily operated with one-line command as shown below.
 
 ## Dependencies
-* Python 3.7.10
-* Tensorflow 2.1.0
-* OpenCV 3.4.2
-* Openpyxl 
-* scikit-learn 0.24.2
-* matplotlib
-* numpy
-
-To ensure compatability, install all packages at once. Example:
-```
-conda install opencv scikit-learn tensorflow openpyxl matplotlib
-```
-Note: Installing opencv takes care of python and numpy.
+To get all requirements, env.yaml file can be used:
+conda env create -f env.yaml
 
 ## Usage
 1. The main file is crispr_vae.py, which can be operated as the following:
@@ -30,7 +19,7 @@ Note: Installing opencv takes care of python and numpy.
 ```
 python crispr_vae.py --trained_mdl --ready_synth --heatmaps --MSM --CAM
 ```
-All options are boolean, but must be inputted as strings; '0' for False, and '1' for True.
+All options are boolean.
 
 * ``` --trained_mdl ```
   - Choose whether to load the weights of CRISPR-VAE ('1'), or train it from scratch ('0'). The default is '1'.
