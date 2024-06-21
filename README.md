@@ -11,8 +11,9 @@ The codes can be easily operated with one-line command as shown below.
 
 ## Dependencies
 To get all requirements, env.yaml file can be used:
+```
 conda env create -f env.yaml
-
+```
 ## Usage
 1. The main file is crispr_vae.py, which can be operated as the following:
 
