@@ -5,7 +5,7 @@
 # CRISPR-VAE
 
 [CRISPR-VAE](https://www.biorxiv.org/content/early/2021/07/06/2021.07.05.451176) is a framework used for interpreting the decision of gRNA efficiency predictors, using an efficiency-aware sequence generator that allows low-level editing control.
-This repo contains the codes that are used to implement, train, and use CRISPR-VAE in Keras, including the synthetic data used in the paper.
+This repo contains the codes that are used to implement, train, and use CRISPR-VAE in Keras, including the synthetic data used in the paper : (TBD).
 
 The codes can be easily operated with one-line command as shown below.
 
@@ -49,18 +49,8 @@ All available outputs are located in /Files/outputs
 ## Citation
 If you find this repo useful, please include the following citation in your work. 
 
-> @article {Obeid2021.07.05.451176,
-	author = {Obeid, Ahmad and Al-Marzouqi, Hasan},
-	title = {CRISPR-VAE: A Method for Explaining CRISPR/Cas12a Predictions, and an Efficiency-aware gRNA Sequence Generator},
-	elocation-id = {2021.07.05.451176},
-	year = {2021},
-	doi = {10.1101/2021.07.05.451176},
-	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2021/07/06/2021.07.05.451176},	
-	journal = {bioRxiv}
-}
-
-The current version of the paper can be found in bioRxiv.
+> (TBD)
+The current version of the paper can be found in (TBD).
 
 
 
