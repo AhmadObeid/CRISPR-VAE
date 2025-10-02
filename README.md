@@ -56,16 +56,14 @@ If you find this repo useful, please include the following citation in your work
 If you find our work beneficial, or if you would like to use parts of this code please consider citing our paper:
 
 ```
-@article {crisprvae,
-	author = {Obeid, Ahmad and Al-Marzouqi, Hasan},
-	title = {CRISPR-VAE: A Method for Explaining CRISPR/Cas12a Predictions, and an Efficiency-aware gRNA Sequence Generator},
-	elocation-id = {2021.07.05.451176},
-	year = {2021},
-	doi = {10.1101/2021.07.05.451176},
-	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2021/07/06/2021.07.05.451176},
-	eprint = {https://www.biorxiv.org/content/early/2021/07/06/2021.07.05.451176.full.pdf},
-	journal = {bioRxiv}
+@article{obeid2025marzouqi,
+  title={CRISPR-Variational Autoencoder: An Interpretable and Efficiency-Aware Guide Ribonucleic Acid Sequence Generator},
+  author={Obeid, Ahmad and AlMarzouqi, Hasan},
+  journal={Engineered Science},
+  volume={34},
+  pages={1452},
+  year={2025},
+  publisher={Engineered Science Publisher}
 }
 ```
 
